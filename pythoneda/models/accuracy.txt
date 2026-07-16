@@ -1,0 +1,2 @@
+- Accuracy: 0.8010
+- F1-score (weighted): 0.7724
